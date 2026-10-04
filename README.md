@@ -2,7 +2,7 @@
 
 Traduction complète de l'admin de ProcessWire
 
-comme d'hab, hmise à jour à partir de la version que j'avais pondue pour la version 3.0.255\
+comme d'hab, mise à jour à partir de la version que j'avais pondue pour la version 3.0.255\
 je mets jour au fil des versions dev et finalisée pour chaque verion master
 
 comme déjà souvent dit, je suis parti à la base sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis les diverses versions depuis la 3.0.184 made in ma pomme
